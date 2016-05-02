@@ -13,6 +13,7 @@ svg {
 a:focus {
   fill: white;
   stroke: #181818;
+  outline: none;
 }
 
 .on {
