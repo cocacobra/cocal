@@ -5,11 +5,11 @@ body {
 canvas {
   background-color: #181818;
 }
-a.focus {
+a:focus {
   fill: white;
   stroke: #181818;
 }
-a.on {
+.on {
   fill: white;
   stroke: #181818;
 }
