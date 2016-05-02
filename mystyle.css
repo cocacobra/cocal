@@ -5,10 +5,16 @@ body {
 canvas {
   background-color: #181818;
 }
+svg {
+  max-height: 100vh;
+  max-width: 100vw;
+}
+
 a:focus {
   fill: white;
   stroke: #181818;
 }
+
 .on {
   fill: white;
   stroke: #181818;
